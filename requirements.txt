@@ -8,3 +8,4 @@ tqdm==4.38.0
 Unidecode==0.4.20
 folium==0.2.1
 tensorflow==1.15
+numba==0.48
